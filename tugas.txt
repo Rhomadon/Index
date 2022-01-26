@@ -1,0 +1,12 @@
+Merangkum semua materi Git buat dalam bentuk commit
+
+Pertemuan Pertama : Intro
+
+Deskripsi
+GIT adalah salah satu version control system yang diciptakan oleh Linus Torvalds  GIT mencatat setiap perubahan file di code atau sourcode kita
+
+Manfaat
+Bisa menyimpan seluruh versi source code berkolaborasi membangun sistem jadi mudah bisa berkontribusi di proyek open source memudahkan dalam tracking perubahan memahami cara deploy modern
+
+Kapan dibutuhkan
+Saat ingin membangun sistem dengan berkolaborasi membuat versi dari sistem backup sour code berkolaborasi dengan programmer dunia
