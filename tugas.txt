@@ -1,12 +1,24 @@
 Merangkum semua materi Git buat dalam bentuk commit
 
-Pertemuan Pertama : Intro
+Pertemuan Kedua : Fundamental
 
-Deskripsi
-GIT adalah salah satu version control system yang diciptakan oleh Linus Torvalds  GIT mencatat setiap perubahan file di code atau sourcode kita
+    - Git Init
+        Digunakan untuk menginisialisasi repository atau memberi tahu folder saat ini akan dijadikan repository kita tidak bisa menggunakan git tanpa menginisialisasinya
 
-Manfaat
-Bisa menyimpan seluruh versi source code berkolaborasi membangun sistem jadi mudah bisa berkontribusi di proyek open source memudahkan dalam tracking perubahan memahami cara deploy modern
+    - Git Config
+        Konfigurasi email dan username biasanya disamakan dengan akun gitlab / github
 
-Kapan dibutuhkan
-Saat ingin membangun sistem dengan berkolaborasi membuat versi dari sistem backup sour code berkolaborasi dengan programmer dunia
+    - Git status
+        Digunakan untuk mengetahui status file
+    
+    - Git clone
+        Digunakan untuk mengcopy repo dari server
+
+    - Git push
+        Untuk mengirimkan commit ke server
+
+    - Git remote
+        Semacam api untuk berinteraksi dari client dengan server
+    
+    - Git pull
+        Untuk mengambil commit dari server jika ada perubahan di server yang dibuat oleh branch lain
